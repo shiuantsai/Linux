@@ -1,0 +1,7 @@
+參考資料:
+https://blog.gtwang.org/linux/linux-grep-command-tutorial-examples/
+
+grep 關鍵字 檔案1 檔案2
+找檔案
+grep Ubuntu /etc/os-release  //在/etc/os-release資料夾找Ubuntu
+grep -r ubuntu /etc/ 	//  在 /etc/ 下所有檔案中搜尋 ubuntu

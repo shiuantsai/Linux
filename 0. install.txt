@@ -1,0 +1,4 @@
+1. 看CPU是否支援VT-x，且有開VT-x，若無要去BIOS設定
+2. 安裝遠端 sudo apt-get install openssh-server
+3. 安裝vim: sudo apt-get install vim
+4. 

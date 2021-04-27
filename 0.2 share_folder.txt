@@ -1,0 +1,8 @@
+參考資料:
+方法1: SAMBA
+https://blog.gtwang.org/linux/ubuntu-linux-share-files-with-windows/
+
+https://richarlin.tw/blog/linux-samba/
+
+方法2: PSCP
+https://ithelp.ithome.com.tw/articles/10214168

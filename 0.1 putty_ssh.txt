@@ -1,0 +1,5 @@
+1.先確認IP
+ifconfig指令在ubuntu 20.04已經更改成:ip addr去查地址
+如0.1 putty_sship
+
+2.網路調成nat模式也可以，不用bridge

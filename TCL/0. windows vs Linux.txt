@@ -1,0 +1,12 @@
+cmd 指令 vs Linux指令
+windows = linux
+f7 = history 
+cls = clear
+notepad = vim
+dir /b = list
+顯示檔案內容
+type = cat
+
+改檔名
+ren(rename) *.txt *.tcl   #將所有txt檔案改成tcl
+rename abcdefg.txt abc.tcl  # 將abcdefg.txt改成abc.tcl檔

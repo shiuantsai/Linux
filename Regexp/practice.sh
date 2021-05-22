@@ -8,8 +8,8 @@ regexp {x+} "baxxxy" e
 puts "x*'s value: $d"
 puts "x+'s value: $e"
 
-regexp {^[ax]+} "axy" f
-puts "$f"
+regexp {^ax\w} "axy" f
+puts "^ax's value: $f"
 
 regexp {zo*} "zoooo" g
 puts "$g"
